@@ -1,7 +1,7 @@
 {
   "settings": {
     "name": "Composer",
-    "currentPage": "productionmusic.html",
+    "currentPage": "contact.html",
     "theme": {
       "name": "mobirise4",
       "title": "Mobirise 4",
@@ -66,8 +66,8 @@
     "index.html": {
       "settings": {
         "main": true,
-        "title": "Janne Seppänen - Media Composer",
-        "meta_descr": "Janne Seppänen is a Finnish media composer specializing in emotional and atmospheric music.",
+        "title": "Janne Seppänen | Composer for Video Games, Films & Media",
+        "meta_descr": "Janne Seppänen is a professional freelance media composer | video game music composer | film music composer | available for hire.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": ""
@@ -824,8 +824,8 @@
     },
     "services.html": {
       "settings": {
-        "title": "Services",
-        "meta_descr": "The services I offer as a composer.",
+        "title": "Janne Seppänen | Media Composer | Services",
+        "meta_descr": "Media composer available for hire for a custom video game music soundtrack, film music soundtrack or other media projects.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -1683,8 +1683,8 @@
     },
     "listen.html": {
       "settings": {
-        "title": "Listen",
-        "meta_descr": "Listen to examples of my work.",
+        "title": "Janne Seppänen | Media Composer | Listen",
+        "meta_descr": "Listen to examples of my work: video game music, epic trailer music, emotional orchestral music and more.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -2363,8 +2363,8 @@
     },
     "about.html": {
       "settings": {
-        "title": "About",
-        "meta_descr": "About me - short bio",
+        "title": "Janne Seppänen | Media Composer | About",
+        "meta_descr": "Janne is a prolific media composer, a passionate gamer and a video game music enthusiast with over 15 years of experience in writing music.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3068,8 +3068,8 @@
     },
     "productionmusic.html": {
       "settings": {
-        "title": "Production Music",
-        "meta_descr": "Production music",
+        "title": "Janne Seppänen | Media Composer | Production Music",
+        "meta_descr": "A comprehensive catalog of production music suitable for video games, films, trailers, corporate videos, podcasts and web videos.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
@@ -3737,8 +3737,8 @@
     },
     "contact.html": {
       "settings": {
-        "title": "Contact",
-        "meta_descr": "Contact information",
+        "title": "Janne Seppänen | Media Composer | Contact",
+        "meta_descr": "Contact and basic information about hiring Janne for a custom video game music soundtrack, film music score or other media projects.",
         "header_custom": "",
         "footer_custom": "",
         "html_before": "",
